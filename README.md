@@ -32,6 +32,6 @@ import { Mat } from 'use-cv';
 ## Credits
 
 - Type defs from [opencv-ts](https://www.npmjs.com/package/opencv-ts)
-- Hooks API from [opencv-react](https://www.npmjs.com/package/opencv-react))
+- Hooks API from [opencv-react](https://www.npmjs.com/package/opencv-react)
 
 > Note: this package is not actively maintained. It is highly useful and hence we made it public. Feel free to clone, modify and republish.
