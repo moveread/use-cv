@@ -4,7 +4,7 @@ React + Typescript Hooks API for OpenCV.js
 ## Why
 
 1. Lazy loading
-2. Type defs $\Rightarrow$ awesome linting
+2. Type defs -> awesome linting
 
 ## Usage
 
