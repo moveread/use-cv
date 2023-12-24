@@ -10,7 +10,7 @@ React + Typescript Hooks API for OpenCV.js
 
 ```jsx
 // provider
-import { OpenCvProiver } from 'use-cv';
+import { OpenCvProvider } from 'use-cv';
 function App() {
     return (
         <OpenCvProvider>
@@ -22,11 +22,11 @@ function App() {
 // context hook
 import { useOpenCv } from 'use-cv';
 function Component() {
-    const { cv } = useOpenCv();
+    const { cv } = useOpenCv(); // Cv | undefined
 }
 
 // type defs
-import { Mat } from 'use-cv';
+import { Cv, Mat } from 'use-cv';
 ```
 
 ## Example
