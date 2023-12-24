@@ -22,7 +22,7 @@ function App() {
 // context hook
 import { useOpenCv } from 'use-cv';
 function Component() {
-    const { cv } = useOpenCv(); // Cv | undefined
+    const cv = useOpenCv(); // Cv | undefined
 }
 
 // type defs
