@@ -29,6 +29,10 @@ function Component() {
 import { Mat } from 'use-cv';
 ```
 
+## Example
+`example` is a simple react app perspective transforming an image
+- `cd example && npm start` to run locally
+
 ## Credits
 
 - Type defs from [opencv-ts](https://www.npmjs.com/package/opencv-ts)
